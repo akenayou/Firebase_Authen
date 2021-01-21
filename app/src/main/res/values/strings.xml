@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Firebase Authentification</string>
+    <string name="already_have_an_account_sign_in_here">Already have an account? Sign in here</string>
+    <string name="welcome_you_are_logged_in">Welcome! You are logged in</string>
+    <string name="logout">Logout</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="not_registered_sign_up_here">Not registered? Sign Up here</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">sign_up</string>
+    <string name="email_hint">email_hint</string>
+    <string name="TandC">TandC</string>
+    <string name="error_view">error_view</string>
+    <string name="welcome">welcome</string>
+    <string name="forgot_password">forgot_password</string>
+    <string name="email_verify_again">email_verify_again</string>
+    <string name="enterEmailId">enterEmailId</string>
+    <string name="user_domain_com">user_domain_com</string>
+    <string name="reset_password">reset_password</string>
+</resources>
